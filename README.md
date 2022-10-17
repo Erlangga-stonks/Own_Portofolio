@@ -1,2 +1,4 @@
-# Own_Portofolio
-This is my own portofolio
+
+## Hello My name is Erlangga Rizal Mahendra
+
+
